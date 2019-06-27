@@ -24,7 +24,6 @@ add_service_files(
   OrtnMove.srv
   OrtnGains.srv
   OrtnSplitMove.srv
-  OrtnHold.srv
   PoseMove.srv
   CartVel.srv
   BHandFingerPos.srv
